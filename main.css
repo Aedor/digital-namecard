@@ -36,7 +36,7 @@ img.profile-pic {
 	height: 50%;
 	width: 50%;
 	object-fit: cover;
-	border: 6px solid #228B22;
+	border: 6px solid #3399FF;
 	border-radius: 50%;
 }
 
@@ -169,7 +169,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #f7921e;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
